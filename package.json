@@ -29,6 +29,8 @@
     "postcss-loader": "^6.2.1",
     "postcss-preset-env": "^7.5.0",
     "react-refresh": "^0.13.0",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.3.0",
     "sass": "^1.51.0",
     "sass-loader": "^12.6.0",
     "webpack": "^5.72.1",
@@ -36,7 +38,7 @@
     "webpack-dev-server": "^4.9.0"
   },
   "dependencies": {
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }

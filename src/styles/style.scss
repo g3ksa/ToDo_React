@@ -1,0 +1,15 @@
+@import 'vars';
+@import 'fonts';
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#wrapper{
+	background: linear-gradient(120deg, #a131ce, #dd9426) no-repeat;
+	color: #fff;
+	font-family: 'Poppins', sans-serif;
+	min-height: 100vh;
+}
